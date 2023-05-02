@@ -151,11 +151,11 @@ const Login = () => {
                         style={{ color: "white", borderTop: "1px solid white" }}
                       >
                         <p>
-                          <b>Email</b> : muthutest789@gmail.com
+                          <b>Email</b> : testmythily@gmail.com
                         </p>
                         <p>
                           {" "}
-                          <b>Password</b> : test123
+                          <b>Password</b> : test@123
                         </p>
                       </div>
                     </div>
