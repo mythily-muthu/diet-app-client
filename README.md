@@ -4,14 +4,17 @@
 
 ## Features:
 
-- User can edit their Details
-- User can Know about their Diet Plan.
-- User can Track their Diet Details.
-- User Can Know about food calories,fat details.
-- User can Delete added food details.
-- User can add Water level for required Diet plan.
-- User can Update Diet plan.
-- User can see the Food Recipe using Search bar.
+In this diet app: MyPlate calorie counter users can make use of following features:
+
+- Initially, using credentials the user can easily register and login
+- Forgot password option is enabled incase of necessity
+- User info page ensures users to add their diet plans and details about intake
+- Users are able to track their Diet through given 53days challenge
+- users can learn the amount of nutrients in their food
+- Able to add or delete food items in Add food page
+- User can add their Water level for required Diet plan
+- User can Update their Diet plan
+- Using Search bar users can see the Food Recipes
 
 # Pages
 
